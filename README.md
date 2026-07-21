@@ -2,6 +2,8 @@
 
 This repository exists to make the cleaned ASX prices dataset visible and runnable for faculty review.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Marek-Czarnecki/data-analytics-capstone-public/blob/main/notebooks/asx_ohlcv_panel_public_demo.ipynb)
+
 ## Included Files
 
 - `data/processed/market_ohlcv_daily_v2/exchange=ASX/asx_ohlcv_panel_clean.parquet`
